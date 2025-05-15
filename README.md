@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdullah and I'm a developer, Welcome to my Github/h2>
+<h2 align="left">Hi 👋! My name is Abdullah and I'm a developer, Welcome to my Github</h2>
 
 ###
 
