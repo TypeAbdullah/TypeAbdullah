@@ -27,7 +27,7 @@
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
   
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Codeflix-bots&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/sewxiy) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codeflix-bots&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/TypeAbdullah)
+[<img src="https://github-readme-stats.vercel.app/api?username=TypeAbdullah&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/TypeAbdullah) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=TypeAbdullah&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/TypeAbdullah)
     
 
     
@@ -47,9 +47,9 @@ Spotify
 -->
 
 <div align="center">
-  <a href="https://t.me/proyato" target="_blank">
+  <a href="https://t.me/NaapaExtra" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/TypeAbdullah/)
