@@ -48,7 +48,7 @@ Spotify
 
 <div align="center">
   <a href="https://t.me/NaapaExtra" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wf4eiltwgxxzm65hbbdnpf4xru&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
