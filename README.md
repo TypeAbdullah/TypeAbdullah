@@ -1,4 +1,4 @@
-<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Abdullah+;From+Chittagong%2C+Bangladesh;Bot/Web+Dev!;Telegram%3A+%40TeamMayhem" alt="https://t.me/NaapaExtra" /></a>
+<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Abdullah+;From+Bangladesh;Bot/Web+Dev!;Telegram%3A+%40NaapaExtra" alt="https://t.me/NaapaExtra" /></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
