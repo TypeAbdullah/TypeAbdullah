@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Abdullah;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
 
 
-<h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://graph.org/file/9854fc0cb3d8640be124a-d900b6f878b73a449a.jpg"width="30"</img></h2>
+<h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://slackmojis.com/emojis/66769-smart"width="30"</img></h2>
 
 ![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
 
