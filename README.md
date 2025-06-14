@@ -16,7 +16,7 @@
 ![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
 
 <p align="center">
-  <a href="https://t.me/NaapaExtra"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+  <a href="https://t.me/NaapaExtra"><img src="https://graph.org/file/9854fc0cb3d8640be124a-d900b6f878b73a449a.jpg"></a>
     </p>
 <p align="center">
 
