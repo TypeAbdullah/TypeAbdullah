@@ -9,13 +9,13 @@
 </p>
 
 ```ts
-interface Flokzy {
+interface abdullah {
 	name: string;
 	role: string;
 }
 
-const flokzy: Flokzy = {
-	name: "flokzy",
+const abdullah: abdullah = {
+	name: "abdullah",
 	role: "Full Stack Developer"
 };
 ```
