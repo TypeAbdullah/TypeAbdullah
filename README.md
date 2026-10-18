@@ -1,40 +1,52 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00f5ff&height=200&section=header&text=Abdullah%20&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Noob%20Copy%20Paster%20%E2%80%A2%20%E2%80%A2%20Web%20Dev&descAlignY=60&descSize=16" width="100%"/>
+<h1 align="center"> Hi, I'm Abdullah <a href="#"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><a/></h1>
 
-<a href="https://github.com/TypeAbdullah"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Abdullah+;From+Chittagong%2C+Bangladesh;Copy+Paster+Web+Dev!;" alt="https://GitHub.com/TypeAbdullah"/></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Abdullah;A++Python+Developer+" alt="Typing SVG" /></a> </p>
-
-## **☕ About me**
-
-<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Abdullah. I love Python and AI and sometime touching some grass.**
-<br><br>
-
-## **🧋Cutie Counter**
-<a href=""><img align="right" width=400 src="https://count.getloli.com/get/@TypeAbdullah?theme=rule34"></a>
-<a href=""><img align="left" width="100" src="./images/cuite.png"></a>
-
-```yaml
-People who visit my profile :<3.
-
-Hehe~ another cutie has been caught stalking my profile 😏.
-```
-<!-- <br><br><br><br> -->
-
-<h3>
-<a href=""><img align="left" width="100" src="./images/cry.png"></a>
-
----
-
-    
-<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 <p align="center">
-<a href="mailto: ognapaextra@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Gmail" width="200" height="38.5"/></a>
+	<a href="#">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js&center=true">
+	</a>
 </p>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com//)
+```ts
+interface Flokzy {
+	name: string;
+	role: string;
+}
 
-###
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:1a1a2e,100:0d1117&height=110&section=footer" width="100%"/>
+const flokzy: Flokzy = {
+	name: "flokzy",
+	role: "Full Stack Developer"
+};
+```
+
+# 💻Tech Stack
+ 
+<!-- https://skillicons.dev -->
+```ts
+const sectionName = "AI";
+```
+[![AI](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,mcp,langchain,n8n)](#)
+```ts
+const sectionName = "MAIN_LANGUAGES";
+```
+[![Main Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,lua,cpp,cs,html,css,bash,powershell)](#)
+```ts
+const sectionName = "FRAMEWORKS";
+```
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite,nodejs,spring,unreal,unity,fastapi,express,tailwind,reactnative,expo)](#)
+```ts
+const sectionName = "SYSTEMS_&_GPU";
+```
+[![Systems & GPU](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,assembly,cmake,nvidia,windows,linux)](#)
+```ts
+const sectionName = "MAIN_TOOLS";
+```
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,mysql,redis,cloudflare,git,gcp,aws,github,githubactions,githubpages,vercel,vscode,docker,nginx)](#)
+
+<p align="center">
+  <!-- https://platane.me/snk/ -->
+  <a href="#"><img src="=https://raw.githubusercontent.com/TypeAbdullah/TypeAbdullah/output/github-contribution-grid-snake-dark.svg" alt="snake"></a>
+</p>
+
+---
