@@ -6,10 +6,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<a href="https://github.com/TypeAbdullah/Advanced_File_Store_bot-"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-advanced-file-store-bot-dark.svg"><img src="assets/project-advanced-file-store-bot-light.svg" width="49%" alt="Advanced_File_Store_bot-"></picture></a>&nbsp;<a href="https://github.com/TypeAbdullah/FileStoreBot-Old"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-filestorebot-old-dark.svg"><img src="assets/project-filestorebot-old-light.svg" width="49%" alt="FileStoreBot-Old"></picture></a>
-
-<a href="https://github.com/TypeAbdullah/WolfToon-Scrapper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wolftoon-scrapper-dark.svg"><img src="assets/project-wolftoon-scrapper-light.svg" width="49%" alt="WolfToon-Scrapper"></picture></a>&nbsp;<a href="https://github.com/TypeAbdullah/NewEncBot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-newencbot-dark.svg"><img src="assets/project-newencbot-light.svg" width="49%" alt="NewEncBot"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
